@@ -28,7 +28,7 @@ namespace MyBlog.Repository
                 Address = user.Address,
                 DateOfBirth = user.DateOfBirth,
             };
-            return result;hello1
+            return result;
         }
     }
 }
